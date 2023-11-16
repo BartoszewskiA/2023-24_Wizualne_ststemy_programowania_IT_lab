@@ -1,0 +1,10 @@
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_lab\lab04p02-gra_w_kolory\lab04p02-gra_w_kolory\bin\Debug\lab04p02-gra_w_kolory.exe.config
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_lab\lab04p02-gra_w_kolory\lab04p02-gra_w_kolory\bin\Debug\lab04p02-gra_w_kolory.exe
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_lab\lab04p02-gra_w_kolory\lab04p02-gra_w_kolory\bin\Debug\lab04p02-gra_w_kolory.pdb
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_lab\lab04p02-gra_w_kolory\lab04p02-gra_w_kolory\obj\Debug\lab04p02-gra_w_kolory.csproj.AssemblyReference.cache
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_lab\lab04p02-gra_w_kolory\lab04p02-gra_w_kolory\obj\Debug\lab04p02_gra_w_kolory.Form1.resources
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_lab\lab04p02-gra_w_kolory\lab04p02-gra_w_kolory\obj\Debug\lab04p02_gra_w_kolory.Properties.Resources.resources
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_lab\lab04p02-gra_w_kolory\lab04p02-gra_w_kolory\obj\Debug\lab04p02-gra_w_kolory.csproj.GenerateResource.cache
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_lab\lab04p02-gra_w_kolory\lab04p02-gra_w_kolory\obj\Debug\lab04p02-gra_w_kolory.csproj.CoreCompileInputs.cache
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_lab\lab04p02-gra_w_kolory\lab04p02-gra_w_kolory\obj\Debug\lab04p02-gra_w_kolory.exe
+D:\PROGRAMOWANIE\2023-24\2023-24_Wizualne_ststemy_programowania_IT_lab\lab04p02-gra_w_kolory\lab04p02-gra_w_kolory\obj\Debug\lab04p02-gra_w_kolory.pdb
